@@ -1,0 +1,17 @@
+{
+  "name": "My Rezka Portal",
+  "parameter": {
+    "menu": [
+      {
+        "title": "HD REZKA",
+        "icon": "https://rezka.ag/favicon.ico",
+        "action": "link:https://lampa.mx/?plugin_rezka=https://lampa.mx/plugins/rezka.js"
+      },
+      {
+        "title": "LAMPA Full",
+        "icon": "https://lampa.mx/img/icons/logo.png",
+        "action": "link:https://lampa.mx"
+      }
+    ]
+  }
+}
